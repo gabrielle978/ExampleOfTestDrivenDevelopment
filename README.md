@@ -4,6 +4,6 @@
 
 > TestNewTalents.cs --> classe que contém código teste;
 > 
-> NewTalents.cs --> classe que contém classe construtora;
+> Calculadora.cs --> classe que contém classe construtora;
 > 
 > Program.cs --> classe principal;
